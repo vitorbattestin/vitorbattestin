@@ -21,3 +21,7 @@ Me chamo **Vitor**, sou um Engenheiro Civil na área de TI, estudando programaç
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/vitor-battestin/">
     </a>
 </p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=vitorbattestin&color=blue&style=flat)
